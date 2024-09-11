@@ -23,3 +23,4 @@ C:\Users\v-jiangsheng\source\repos\steven-helloworld\steven-helloworld\obj\Debug
 C:\Users\v-jiangsheng\source\repos\steven-helloworld\steven-helloworld\obj\Debug\net8.0\steven-helloworld.pdb
 C:\Users\v-jiangsheng\source\repos\steven-helloworld\steven-helloworld\obj\Debug\net8.0\steven-helloworld.genruntimeconfig.cache
 C:\Users\v-jiangsheng\source\repos\steven-helloworld\steven-helloworld\obj\Debug\net8.0\ref\steven-helloworld.dll
+C:\Users\v-jiangsheng\source\repos\Steven-HelloWorld\steven-helloworld\obj\Debug\net8.0\steven-helloworld.sourcelink.json
